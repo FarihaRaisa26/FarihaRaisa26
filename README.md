@@ -44,4 +44,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-🎓 Open to PhD opportunities in multilingual NLP, Machine Learning, Large Language Models (LLMs), and trustworthy AI, with applications in healthcare, education, and low-resource languages.
+## 🎓 Open to PhD Opportunities
+
+> [!IMPORTANT]
+> I am actively seeking **PhD opportunities** in **Multilingual NLP, Machine Learning, Large Language Models (LLMs), and Trustworthy AI**, with applications in **healthcare, education, and low-resource languages**.
