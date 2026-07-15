@@ -5,19 +5,23 @@
 
 👩🏻‍🎓 Studied Computer Science at Military Institue of Science & Technology(MIST), Dhaka, Bangladesh<br/>
 🎨 Making blogs about Computer Science and tech<br/>
-💭 Currently learning about 
+## 💭 Currently learning about 
 - Application of Mechanistic Interpretability to evaluate How Well Do Large Language Models Interpret Bangla–English Code-Mixed Social Media Text
 - SHAP and LIME in XAI
 - Retrieval Augmented Generation(RAG)
 
-🔭 I’m currently working on
+## 🔭 I’m currently working on
 - Manuscripts on suicidal ideation dataset
 - Manuscripts on How Well Do Large Language Models Interpret Bangla–English Code-Mixed Social Media Text
 - Manuscripts on BanglaHireBias: A Benchmark for Evaluating Social Bias in Bangla LLM-Based Hiring Decisions
 
-👯 I’m looking to collaborate on multilingual NLP, LLM evaluation, and AI research for healthcare and education.
+## 👯 I’m looking to collaborate on 
+-Multilingual NLP, LLM evaluation, and AI research for healthcare and education.
   
-📫 How to reach me: fariha2016raisa@gmail.com
+📫 **How to reach me**
+
+- Email: [fariha2016raisa@gmail.com](mailto:fariha2016raisa@gmail.com)
+- LinkedIn: [linkedin.com/in/fariha-ahmed](https://www.linkedin.com/in/fariha-ahmed-1a230a12a/)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=FarihaRaisa26)](https://github.com/stats-organization/github-stats-extended)
